@@ -28,7 +28,7 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Vous pouvez acheter des items de buffs globaux ici",
+ 	 	 	 	"trans": "Vous pouvez acheter des objets d'amélioration générale ici",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	}
  	 	},
@@ -68,7 +68,7 @@
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Your personal computer, although its a little outdated, it could get the job done with enough patient",
+ 	 	 	 	"trans": "Votre PC, Bien qu'il soit légèrement dépassé, il fait le boulot avec un peu de patience",
  	 	 	 	"eng": "Your personal computer, although its a little outdated, it could get the job done with enough patient"
  	 	 	}
  	 	},
@@ -104,7 +104,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "Proficience en impression",
+ 	 	 	 	"trans": "Rang d'impression",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -122,13 +122,13 @@
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "scavenge skill",
+ 	 	 	 	"trans": "talent nettoyage",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "mining skill",
+ 	 	 	 	"trans": "talent mineur",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -173,7 +173,7 @@
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Vous pouvez acheter ou vendre des items à d'autres joueurs ici",
+ 	 	 	 	 	"trans": "Vous pouvez acheter ou vendre des objets à d'autres joueurs ici",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	}
@@ -216,7 +216,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        En utilisant l'hyperloop, you pouvez aisément voyager à travers le continent avec aisance.",
+ 	 	 	 	"trans": "[Adventure]\r\n        En utilisant l'hyperloop, you pouvez rapidement voyager à travers le continent avec aisance.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
  	 	 	}
  	 	},
@@ -233,7 +233,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Return to ${mainHubName}",
+ 	 	 	 	 	"trans": "Renvoyer vers ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -249,13 +249,13 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "retour vers ${segmentStationName}",
+ 	 	 	 	 	"trans": "renvoyer vers ${segmentStationName}",
  	 	 	 	 	"eng": "return to ${segmentStationName}"
  	 	 	 	}
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Retour vers la station d'Hypertrain",
+ 	 	 	 	 	"trans": "Renvoyer vers la station d'Hypertrain",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
@@ -361,227 +361,227 @@
  	 	},
  	 	"helmet": {
  	 	 	"name": {
- 	 	 	 	"trans": "helmet",
+ 	 	 	 	"trans": "casque",
  	 	 	 	"eng": "helmet"
  	 	 	}
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "upper armor",
+ 	 	 	 	"trans": "armure supérieure",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "lower armor",
+ 	 	 	 	"trans": "armure inférieure",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "boots",
+ 	 	 	 	"trans": "bottes",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "upgrade module",
+ 	 	 	 	"trans": "module d'amélioration",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Anti-douleur",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Do you have headache? use Pain Away™ to relief your pain!",
+ 	 	 	 	"trans": "Mal à la tête? Utilise Anti-douleur™ pour calmer votre souffrance!",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Repair Bot",
+ 	 	 	 	"trans": "Nano robot de réparation dégradé",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Old nano repair bot, usually used to repair small tech devices",
+ 	 	 	 	"trans": "Ancien nano robot de réparation, utilisé pour réparer les petits appareils techniques",
  	 	 	 	"eng": "Old nano repair bot, usually used to repair small tech devices"
  	 	 	}
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Medic Bot",
+ 	 	 	 	"trans": "Nano robot médical dégradé",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Old nano Medic bot, inject it to cure any(*conditions apply) injury!",
+ 	 	 	 	"trans": "Ancien nano robot médical, l'injecter pour soigner les(*conditions apply) blessures!",
  	 	 	 	"eng": "Old nano Medic bot, inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Medic Bot",
+ 	 	 	 	"trans": "Nano Robot Médical",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "inject it to cure any(*conditions apply) injury!",
+ 	 	 	 	"trans": "L'injecter pour soigner les(*conditions apply) blessures!",
  	 	 	 	"eng": "inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano Medic Bot",
+ 	 	 	 	"trans": "Nano robot médical militaire",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injectable nano machines that are standard issue for military use, capable of patching injuries while in combat.",
+ 	 	 	 	"trans": "Nano machines injectables utilisés par les militaires pour les problèmes standard, capable de réparer des blessures pendant un combat.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use, capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advanced Nano Medic Bot",
+ 	 	 	 	"trans": "Nano robot médical avancé",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injectable nano machines that are used in the military. They are capable of patching injuries while in combat.",
+ 	 	 	 	"trans": "Nano machines injectables utilisés par les militaires. Capable de réparer des blessures pendant un combat.",
  	 	 	 	"eng": "Injectable nano machines that are used in the military. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano Medic Bot",
+ 	 	 	 	"trans": "Nano robot médical de haute qualité",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "injectable nano machines that is for advance military use, capable of patching injury in combat situation",
+ 	 	 	 	"trans": "Nano machines injectables pour une utilisation militaire avancée, capable de réparer les blessures en situation de combat",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano Medic Bot",
+ 	 	 	 	"trans": "Nano robot médical Rare",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "injectable nano machines that is for advance military use, capable of patching injury in combat situation",
+ 	 	 	 	"trans": "Nano machines injectables pour une utilisation militaire avancée, capable de réparer les blessures en situation de combat",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "Spray Anti-douleur",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!",
+ 	 	 	 	"trans": "Avez-vous avec vos amis mal à la tête? Utilise le Spray Anti-douleur™ pour calmer votre peine!",
  	 	 	 	"eng": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Repair drone",
+ 	 	 	 	"trans": "Drone de réparation dégradé",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Old repair drone, capable of repair or heal nearby players",
+ 	 	 	 	"trans": "Ancien drone de réparation, capable de réparer ou soigner les joueurs autour de lui",
  	 	 	 	"eng": "Old repair drone, capable of repair or heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded nano medic drone",
+ 	 	 	 	"trans": "Drone Nano médical dégradé",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players",
+ 	 	 	 	"trans": "Ancien drone nano, capable de distribuer des milliers de nano machines pour soigner les joueurs à proximités",
  	 	 	 	"eng": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano medic drone",
+ 	 	 	 	"trans": "Drone Nano médical",
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of nano machines to heal nearby players",
+ 	 	 	 	"trans": "capable de distribuer des milliers de nano machines pour soigner les joueurs à proximités",
  	 	 	 	"eng": "capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano medic drone",
+ 	 	 	 	"trans": "Drone militaire Nano médical",
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of military nano machines to heal nearby players",
+ 	 	 	 	"trans": "capable de distribuer des milliers de nano machines pour soigner les joueurs à proximités",
  	 	 	 	"eng": "capable of dispatching thousands of military nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advance Nano medic drone",
+ 	 	 	 	"trans": "Drone Nano médical avancé",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
+ 	 	 	 	"trans": "capable de distribuer des milliers de nano machines pour soigner les joueurs à proximités",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano medic drone",
+ 	 	 	 	"trans": "Drone Nano médical haute qualité",
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
+ 	 	 	 	"trans": "capable de distribuer des milliers de nano machines avancés pour soigner les joueurs à proximités",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano medic drone",
+ 	 	 	 	"trans": "Drone Nano médical Rare",
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
+ 	 	 	 	"trans": "capable de distribuer des milliers de nano machines avancés pour soigner les joueurs à proximités",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "Medical Tech Parts",
+ 	 	 	 	"trans": "Pièces techniques médicale",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how",
+ 	 	 	 	"trans": "Morceaux de pièces technique à usage médical, peuvent être utilisés pour créer des objets de soin si vous savez comment",
  	 	 	 	"eng": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "Experience Memory",
+ 	 	 	 	"trans": "Experience Mémoire",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Memory bank contains someone's memory, if used you may gain experience from this",
+ 	 	 	 	"trans": "La banque mémoire contient la mémoire de quelqu'un, utilisé vous pouvez gagner en expérience",
  	 	 	 	"eng": "Memory bank contains someone's memory, if used you may gain experience from this"
  	 	 	}
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hash Processor",
+ 	 	 	 	"trans": "Processeur de hachage",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]",
+ 	 	 	 	"trans": "Peut être utilisé comme appareil dédié au minage de BitCoin, \r\n        cependant avec l'overclocking, le processeur est facilement épuisé,\r\n        Vous pouvez l'utiliser pour miner des BitCoin à [JOB HUB]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
  	 	"afkAcceleration": {
  	 	 	"name": {
- 	 	 	 	"trans": "Synaptic Acceleration Transmitter",
+ 	 	 	 	"trans": "Transmetteur d'accélération synaptique",
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
